@@ -57,38 +57,21 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Morse-Decoder] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> Morse code is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, 
+  called dots and dashes, or dits and dahs.[3][4] Morse code is named after Samuel Morse, one of the inventors of the telegraph.
 
-**[your_project__name]** is a...
+**[Morse-Decoder]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack <a name="Ruby"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> Ruby is A dynamic, open source programming language with a focus on simplicity and productivity. 
+It has an elegant syntax that is natural to read and easy to write.
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
@@ -96,19 +79,17 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[ used in telecommunication to encode text]**
+- **[increase the efficiency of encoding]**
+- **[ each symbol is approximately inverse to the frequency of occurrence of the character that it represents in text of the English language. ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀Not available <a name="live-demo"></a>
 
 > Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,7 +97,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
+> They can use it to decode a Morse code.
 
 To get a local copy up and running, follow these steps.
 
@@ -125,10 +106,9 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 <!--
-Example command:
 
 ```sh
- gem install rails
+ install ruby on your device
 ```
  -->
 
@@ -137,62 +117,29 @@ Example command:
 Clone this repository to your desired folder:
 
 <!--
-Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/d4nQw3rty/Morse-Decoder
 ```
 --->
 
 ### Install
 
-Install this project with:
+Install this project with Vs code:
 
 <!--
 Example command:
 
 ```sh
   cd my-project
-  gem install
+  bundle install
 ```
 --->
 
 ### Usage
 
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+To run the project, execute the following command:right click and run
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -201,30 +148,30 @@ Example:
 ## 👥 Authors <a name="authors"></a>
 
 > Mention all of the collaborators of this project.
+## 👥 Authors <a name="Yilikal Teshome"></a>
 
-👤 **Author1**
+👤 **Yilikal Teshome**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Yilikal250)
+- Twitter: [@twitterhandle](https://twitter.com/TeshomeYilikal)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/yilikal-teshome)
 
-👤 **Author2**
+👤 **Danys Linares**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@github](https://github.com/d4nQw3rty)
+- Twitter: [@twitter](https://twitter.com/Danys_Linares)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/danys-linares)
+
+👤 **Mahdi Aghaali**
+
+- GitHub: [@MahdiAghaali](https://github.com/MahdiAghaali)
+- Twitter: [@Mohi_Aghaali](https://twitter.com/Mohi_Aghaali)
+- LinkedIn: [mahdi-aghaali](https://www.linkedin.com/in/mahdi-aghaali/)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -254,7 +201,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Yilikal Teshome and Mahdi Aghaali for contributing and collaburating with me. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -264,13 +211,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **[what is ruby]**
 
-  - [Answer_1]
+  - [A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.]
 
-- **[Question_2]**
+- **[What is Morse code]**
 
-  - [Answer_2]
+  - [ is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called dots and dashes, or dits and dahs.]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
