@@ -85,9 +85,9 @@ It has an elegant syntax that is natural to read and easy to write.
 
 <!-- LIVE DEMO -->
 
-## 🚀Not available <a name="live-demo"></a>
+## 🚀Deployment <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+>Not available.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
