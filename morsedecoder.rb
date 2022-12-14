@@ -71,3 +71,12 @@ def decode_word(string)
   letters_array.each { |letter| result += decode_letter(letter) }
   result
 end
+
+def decode_message(string)
+  result = ''
+  words_array = string.split('   ')
+  words_array.each { |word| result = "#{result} #{decode_word(word)}" }
+  result
+end
+
+print decode_message(message)
