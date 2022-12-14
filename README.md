@@ -85,7 +85,7 @@ It has an elegant syntax that is natural to read and easy to write.
 
 <!-- LIVE DEMO -->
 
-## 🚀Deployment <a name="live-demo"></a>
+## 🚀Live Demo <a name="live-demo"></a>
 
 >Not available.
 
@@ -101,7 +101,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+ install ruby on your device:
 
 <!--
 
