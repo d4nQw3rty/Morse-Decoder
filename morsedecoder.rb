@@ -56,3 +56,11 @@ MORSE_CODE = {
   '...-..-' => '$',
   '.--.-.' => '@'
 }.freeze
+
+def decode_letter(string)
+  MORSE_CODE.each do |letter|
+    if (letter = string)
+      return MORSE_CODE[letter]
+    end
+  end
+end
