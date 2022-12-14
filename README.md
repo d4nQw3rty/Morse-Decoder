@@ -179,7 +179,7 @@ To run the project, execute the following command:right click and run
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page]([../../issues/](https://github.com/d4nQw3rty/Morse-Decoder/issues)).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
