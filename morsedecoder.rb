@@ -64,3 +64,10 @@ def decode_letter(string)
     end
   end
 end
+
+def decode_word(string)
+  result = ''
+  letters_array = string.split
+  letters_array.each { |letter| result += decode_letter(letter) }
+  result
+end
